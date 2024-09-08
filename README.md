@@ -35,10 +35,13 @@ The Agile methodology is a flexible approach to software development that emphas
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
-
+1. Software developer is the primary architect of software solutions. They are responsible for designing, coding, testing, and maintaining software applications.
+2. Quality Assurance engineer is responsible for ensuring the quality of the software product. They play a critical role in identifying and preventing defects before the software is released.
+3. Project manager is responsible for overseeing the entire software development process. They coordinate the team's efforts, manage resources, and ensure the project is delivered on time and within budget.
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
-
+(1) Integrated Development Environments (IDEs) provide a comprehensive set of features that significantly boost developer productivity. They offer a unified interface for writing, editing, compiling, debugging, and running code with key features like code editing, debugging, build automation, version control integration, plugins and extension. Examples include Visual studio code, IntelliJ IDEA, Eclipse, Pycharm, Xcode
+(2) Version Control Systems (VCS) are essential for managing changes to source code over time. They allow developers to track changes, collaborate effectively, and revert to previous versions if necessary. Examples include Git, Subversion (SVN), Mercurial 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
 
